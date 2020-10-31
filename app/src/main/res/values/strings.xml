@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mi Biografia</string>
+    <string name="name">Angeles Herrera</string>
+    <string name="letrero_datos">Mis datos</string>
+    <string name="bio">Naci el 02 de agosto de 1998, en el municipio de magdalena jalisco
+     curse la especialidad de informatica en el cbtis244 de magdalena, jalisco. Actualmente
+         curso el 7mo semestre de la carrera de ingenieria en informatica, en el instituto
+         tecnologico de tequila. \n La materia es "desarrollo de aplicaciones
+         para dispositivos moviles" \n es impartida por el profesor: Jose luis Cobian Hermosillo
+         y lo que se supone que debe mostrar es la implementacion de un componente llamado ScrowViell
+         el cual tiene como funcion en este caso, el mostrar el contenido  de un texView aun cuando
+        este rebase la capacidad de la pantalla. Para demostrar su correcta implementacion usted
+        notara en la pantalla que puede seguir viendo este texto hasta ...................
+        ..................................................................................
+        ..................................................................................
+         ..................................................................................
+        .................................................................................
+        ........................................................................Aqui. Creo que es
+        suficiente. Gracias por su tiempo.
+
+    </string>
+</resources>

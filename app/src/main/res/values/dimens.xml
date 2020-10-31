@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tam_nombre">35sp
+    </dimen>
+    <dimen name="layout_margin_top">16dp</dimen>
+    <dimen name="padding_lbl">8dp</dimen>
+    <dimen name="alto_imagen">150dp</dimen>
+    <dimen name="tam_texto">18sp</dimen>
+    <item name="espaciado" type="dimen" format="float">1.3</item>
+</resources>
